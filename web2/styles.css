@@ -1,0 +1,115 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins&display=swap');
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+.nav-item {
+    font-weight: 350;
+    color: #000000;
+}
+/*.dropdown-item {*/
+/*  font-family: 'Poppins', sans-serif;*/
+/*    font-weight: 350;*/
+/*    color: #000000;*/
+/*    text-decoration: none;*/
+/*}*/
+.form-control {
+    color: #000000;
+}
+.btn {
+    height: 37px;
+}
+/*
+.redbtn {
+  margin-right: 10px;
+  padding: 10px 34px;
+  background-color: #ffc3eb;
+  border: none;
+  border-radius: 100px;
+  cursor: pointer;
+  transition: all 0.3s ease 0s;
+  white-space: nowrap;
+  font-size: 15px;
+  text-decoration: none;
+  color: #000000;
+  text-align: center;
+
+}
+
+.redbtn:hover {
+  background-color: #000000;
+  color: rgb(255, 255, 255);
+}
+.redbtn:hover {
+  text-decoration: none;
+}
+*/
+.redbtn2 {
+    margin-right: 10px;
+    padding: 10px 34px;
+    background-color: #ffc3eb;
+    border: none;
+    border-radius: 100px;
+    cursor: pointer;
+    transition: all 0.3s ease 0s;
+    white-space: nowrap;
+    font-size: 15px;
+    text-decoration: none;
+    color: #000000;
+    text-align: center;
+}
+.redbtn2:hover {
+    background-color: #000000;
+    color: rgb(255, 255, 255);
+}
+.redbtn2:hover {
+    text-decoration: none;
+}
+/* bas banner */
+
+.bas_banner {
+    position: relative;
+    min-height: 1px;
+    float: left;
+}
+.bas_banner_text {
+    position: absolute;
+    top: 200px;
+    width: 100%;
+    padding-left: 170px;
+
+}
+.bas .bas_banner_text .bas_container_text {
+    float: right;
+    width: 47%;
+    color: #000000;
+    text-shadow: 0 1px 0 rgba(0, 0, 0, 0.25);
+    font-size: 24px;
+    text-transform: uppercase;
+}
+.basky1 {
+    margin-bottom: 1.5em;
+    margin-top: 0;
+    font-family: 'Poppins', sans-serif;
+}
+
+.bas .bas_banner_text .bas_container_text .basky {
+    font-size: 66px;
+    line-height: 66px;
+    font-family: 'Niconne', cursive;
+    text-transform: none;
+    font-weight: normal;
+    margin: 0 0 15px;
+    display: block;
+}
+.bas_banner_photo img {
+    max-width: 100%;
+}
+.section{
+    padding: 89px 0 132px;
+    background-color: #f8f8f8;
+    background: #f8f8f8;
+    color: #f8f8f8;
+
+}
